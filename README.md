@@ -32,7 +32,7 @@ Exemplos de como se parece no final:
 
 <img width="1197" height="593" alt="Captura de tela 2026-05-08 184816" src="https://github.com/user-attachments/assets/3e2c987d-599d-4d49-9dc1-1ccca688b1a8" />
 
-Para acompanhar o tempo que falta para é uma alternativa acompanhar os logs, para isto faça o passo a passo:
+Para acompanhar o tempo que falta para os dados estarem disponíveis no banco é uma alternativa acompanhar os logs, para isto faça o passo a passo:
 
 Execute o comando: docker container ls, e copie o id do container hackernewsbot-pipeline
 
